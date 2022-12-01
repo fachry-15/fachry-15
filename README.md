@@ -26,10 +26,4 @@ hello, I'm Fachry Rizky Prasetya from Surabaya, Indonesia. I am an Informatics E
                   
                   
                 <p align="left">
-                          
-                      <a href="https://www.github.com/fachry-15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/zkyfachry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/fachry-rizky-065b741a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/fachry-15"><img src="https://github-readme-stats.vercel.app/api?username=fachry-15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fachry-15's GitHub stats" /></a><a href="https://github.com/fachry-15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachry-15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                  
