@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer and UI UX Designer
 -------------------------------------
 
-hello, I'm Fachry Rizky Prasetya from Surabaya, Indonesia. I am an Informatics Engineering student at Jember State Polytechnic. I have worked on several projects from web and application. My biggest achievement so far is being a finalist in KMIPN and Gold Medal International Technology.
+hello, I'm Fachry Rizky Prasetya from Surabaya, Indonesia. I am an Informatics Engineering student at State Polytechnic of Jember. I have worked on several projects from web and application. My biggest achievement so far is being a finalist in KMIPN and Gold Medal International Technology.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [fachry150503@gmail.com](mailto:fachry150503@gmail.com)
