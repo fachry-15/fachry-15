@@ -38,9 +38,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=fachry-15)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/fachry-15/fachry-15/blob/main/WEBP/left.webp">
+ <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fachry-15&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/fachry-15/fachry-15/blob/main/WEBP/right.webp">
+ <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
 
 #
